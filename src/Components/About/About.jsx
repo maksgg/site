@@ -12,7 +12,7 @@ const About = () => {
       </div>
       <div className="about-right">
         <h3>ABOUT UNIVERSITY</h3>
-        <h2>Nurturing Tomorrow`s Leaders Todey</h2>
+        <h2>Nurturing Tomorrows Leaders Today</h2>
         <p>Embark on a transformative educational journey 
           with our university`s comprehensive education 
           programs. Our cutting-edge curriculum is 
